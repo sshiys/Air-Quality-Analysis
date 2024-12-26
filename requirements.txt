@@ -1,0 +1,8 @@
+matplotlib==3.10.0
+numpy==2.2.1
+pandas==2.2.3
+scipy==1.14.1
+seaborn==0.13.2
+statsmodels==0.14.4
+streamlit==1.41.1
+
