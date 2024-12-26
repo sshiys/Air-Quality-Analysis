@@ -9,7 +9,7 @@ python -m venv virtualname
 ```
 virtualname\Scripts\activate.bat
 ```
-3. Install dependecies
+3. Install dependencies
 ```
 pip install -r requirements.txt
 ```
@@ -17,3 +17,5 @@ pip install -r requirements.txt
 ```
 streamlit run dashboard\dashboard.py
 ```
+## Live Dashboard in Streamlit
+https://air-quality-analysis-shunyi.streamlit.app

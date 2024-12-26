@@ -9,7 +9,7 @@ import numpy as np
 st.set_page_config(page_title="Air Quality Analysis in Shunyi")
 
 #Load dataset
-data = pd.read_csv('.\dataset\PRSA_Data_Shunyi_20130301-20170228.csv')
+data = pd.read_csv('./dataset/PRSA_Data_Shunyi_20130301-20170228.csv')
 
 #Dashboard title
 st.title('Air Quality Dashboard: Shunyi Station')
