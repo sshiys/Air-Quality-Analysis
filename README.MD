@@ -1,11 +1,11 @@
 # Air Quality Analysis in Shunyi Station
-This is part of Dicoding Submission about analysing the air quality in provided dataset.
-## How to run in windows
-1. Create a virtual enviroment
+This is part of the Dicoding Submission about analyzing the air quality in the provided dataset.
+## How to run dashboard in Windows
+1. Create a virtual environment
 ```
 python -m venv virtualname
 ```
-2. Activate virtual enviroment
+2. Activate virtual environment
 ```
 virtualname\Scripts\activate.bat
 ```
@@ -17,4 +17,3 @@ pip install -r requirements.txt
 ```
 streamlit run dashboard\dashboard.py
 ```
-pipreqs --scan-notebooks
